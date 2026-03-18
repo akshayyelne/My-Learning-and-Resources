@@ -2,9 +2,9 @@
 
 ## Hello there! 👋
 
-I'm Long Le, a Machine Learning Engineer passionate about building AI systems. This repository is my collection of RAG (Retrieval-Augmented Generation) resources to help you build powerful AI applications.
+I'm Akshay Yelne, passionate about building AI systems. This repository is my collection of RAG (Retrieval-Augmented Generation) resources to help you build powerful AI applications.
 
-Feel free to connect with me on social media to discuss AI, machine learning, or this project:
+Feel free to connect with me on social media to discuss further
 
 <div align="center">
   <p>
@@ -49,17 +49,6 @@ Comprehensive courses and learning resources for mastering RAG systems.
 | Traditional RAG - Build Pipelines | Building end-to-end traditional RAG pipelines including ingestion, chunking, embeddings, vector stores, and retrieval workflows | [![YouTube](https://img.shields.io/badge/YouTube-Video%201-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MykcjWPJ6T4) <br> [![YouTube](https://img.shields.io/badge/YouTube-Video%202-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=adPi3a8fq4c) | Intermediate |
 | Agentic RAG - Build Pipelines | Designing agentic RAG systems with tool usage, reasoning loops, dynamic retrieval, and multi-step decision making | [![YouTube](https://img.shields.io/badge/YouTube-Video%201-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HodCjnGv8Ag) <br> [![YouTube](https://img.shields.io/badge/YouTube-Video%202-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Chl-cRcwVpA) | Advanced |
 
-
-### Books on RAG
-
-| Book | Description | Link |
-|------|-------------|------|
-| Building LLMs in Production | Covers building reliable and scalable LLM applications with a focus on RAG systems. Includes techniques for fine-tuning, evaluation, and deployment of production-ready LLM applications. | [Link](https://www.amazon.com.au/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8) |
-| Hands-on RAG Development | Focuses on using LangChain and Python to create RAG applications. Covers foundational concepts, practical tutorials, and real-world applications. Includes topics like packaging, deployment, and the future of RAG systems. | [Link](https://www.booktopia.com.au/hands-on-rag-development-steven-hay/ebook/1230007612480.html) |
-| Enterprise RAG | Aimed at building scalable, production-ready RAG systems for enterprise use. Discusses advanced techniques like agent-based retrieval, query rewriting, and handling hallucinations. Includes practical advice for deploying and maintaining RAG systems. | [Link](https://www.manning.com/books/enterprise-rag) |
-| Knowledge Graph-Enhanced RAG | Focuses on integrating knowledge graphs into RAG systems for improved accuracy and traceability. Offers hands-on techniques for building tools like vector similarity search and knowledge graphs. | [Link](https://www.manning.com/books/essential-graphrag?utm_source=reddit&utm_medium=social&utm_campaign=book_bratanic3&utm_content=launch) |
-| A Simple Guide to Retrieval Augmented Generation | Designed for beginners, this book simplifies RAG concepts and provides step-by-step guidance. Covers modular approaches, LangChain integration, and reducing hallucinations in LLMs. | [Link](https://www.manning.com/books/a-simple-guide-to-retrieval-augmented-generation?utm_source=reddit&utm_medium=social&utm_campaign=book_kimothi&utm_content=launch) |
-| RAG-Driven Generative AI | Comprehensive guide to building RAG systems with practical implementations and real-world use cases. | [Link](https://www.packtpub.com/en-au/product/rag-driven-generative-ai-9781836200918?type=subscription) |
 
 ## Document Ingestor
 
