@@ -1,4 +1,4 @@
-# RAG All-in-one
+# RAG Learnings and Resources
 
 ## Hello there! 👋
 
