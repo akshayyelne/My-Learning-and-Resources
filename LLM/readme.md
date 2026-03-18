@@ -26,71 +26,6 @@ This repository is a complete guide to understanding Large Language Models (LLMs
 
 ---
 
-## 🚀 LLM Learning Roadmap (Beginner → Advanced)
-
-A structured path to go from fundamentals to production-grade AI systems.
-
----
-
-### 🟢 Beginner — Foundations
-
-> Goal: Understand how LLMs work
-
-- 🔤 What are LLMs (GPT, tokens, embeddings)
-- 🧠 Transformers & Attention
-- ✂️ Tokenization
-- 📊 Embeddings
-- 🗣️ Intro to Prompting
-
-📚 Resources:
-- Basics of LLMs  
-- Prompt Engineering  
-
----
-
-### 🟡 Intermediate — Build with LLMs
-
-> Goal: Build real-world applications
-
-- 🧾 Advanced Prompting (CoT, structured output)
-- 🔗 LLM APIs (OpenAI, Hugging Face)
-- ⚙️ Build chatbots & apps
-- 🧩 Function calling
-- 🗂️ Context & memory
-
-📚 Resources:
-- Building LLM Apps  
-
----
-
-### 🟠 Advanced — Customize & Optimize
-
-> Goal: Improve performance
-
-- 🏋️ Fine-tuning (LoRA, QLoRA)
-- 📚 Domain adaptation
-- ⚡ Optimization (latency, cost)
-- 📏 Evaluation
-- 🔍 Debugging outputs
-
-📚 Resources:
-- Fine-tuning LLMs  
-
----
-
-### 🔴 Expert — Agentic & Production Systems
-
-> Goal: Build intelligent systems
-
-- 🤖 Agentic AI
-- 🧠 Tool-using agents
-- 🔄 Multi-agent systems
-- 🚀 Deployment
-- 📊 Monitoring
-
-📚 Resources:
-- Agentic AI with LLMs  
-
 ## 📚 My Learning resources 
 
 Comprehensive courses and learning resources for mastering LLMs.
@@ -176,3 +111,68 @@ Comprehensive courses and learning resources for mastering LLMs.
 | Code Assistants | AI coding tools |
 | AI Search | Semantic search |
 | AI Agents | Autonomous systems |
+
+## 🚀 LLM Learning Roadmap (Beginner → Advanced)
+
+A structured path to go from fundamentals to production-grade AI systems.
+
+---
+
+### 🟢 Beginner — Foundations
+
+> Goal: Understand how LLMs work
+
+- 🔤 What are LLMs (GPT, tokens, embeddings)
+- 🧠 Transformers & Attention
+- ✂️ Tokenization
+- 📊 Embeddings
+- 🗣️ Intro to Prompting
+
+📚 Resources:
+- Basics of LLMs  
+- Prompt Engineering  
+
+---
+
+### 🟡 Intermediate — Build with LLMs
+
+> Goal: Build real-world applications
+
+- 🧾 Advanced Prompting (CoT, structured output)
+- 🔗 LLM APIs (OpenAI, Hugging Face)
+- ⚙️ Build chatbots & apps
+- 🧩 Function calling
+- 🗂️ Context & memory
+
+📚 Resources:
+- Building LLM Apps  
+
+---
+
+### 🟠 Advanced — Customize & Optimize
+
+> Goal: Improve performance
+
+- 🏋️ Fine-tuning (LoRA, QLoRA)
+- 📚 Domain adaptation
+- ⚡ Optimization (latency, cost)
+- 📏 Evaluation
+- 🔍 Debugging outputs
+
+📚 Resources:
+- Fine-tuning LLMs  
+
+---
+
+### 🔴 Expert — Agentic & Production Systems
+
+> Goal: Build intelligent systems
+
+- 🤖 Agentic AI
+- 🧠 Tool-using agents
+- 🔄 Multi-agent systems
+- 🚀 Deployment
+- 📊 Monitoring
+
+📚 Resources:
+- Agentic AI with LLMs  
