@@ -153,21 +153,6 @@ Databases optimized for storing and efficiently searching vector embeddings/text
 | MongoDB | General-purpose document database | [Link](https://www.mongodb.com/) |  |
 | Elasticsearch | Search and analytics engine that can store documents | [Link](https://www.elastic.co/) |  |
 
-## LLM
-
-Large Language Models and platforms for generating responses based on retrieved context.
-
-| LLM | Description | Link |
-|-----|-------------|------|
-| OpenAI API | Access to GPT models through API | [Link](https://platform.openai.com/) |
-| Claude | Anthropic's Claude series of LLMs | [Link](https://www.anthropic.com/claude) |
-| Hugging Face LLM Models| Platform for open-source NLP models | [Link](https://huggingface.co/collections/open-llm-leaderboard/open-llm-leaderboard-best-models-652d6c7965a4619fb5c27a03) |
-| LLaMA | Meta's open-source large language model | [Link](https://github.com/facebookresearch/llama) |
-| Mistral | Open-source and commercial models | [Link](https://mistral.ai/) |
-| Cohere | API access to generative and embedding models | [Link](https://cohere.com/) |
-| DeepSeek | Advanced large language models for various applications | [Link](https://www.deepseek.com/) |
-| Qwen | Alibaba Cloud's large language model accessible via API | [Link](https://www.alibabacloud.com/help/en/model-studio/developer-reference/use-qwen-by-calling-api) |
-| Ollama | Run open-source LLMs locally | [Link](https://github.com/ollama/ollama) |
 
 ## Embedding
 
@@ -197,47 +182,6 @@ Tools and techniques for customizing LLMs to specific domains or tasks.
 | Axolotl | User-friendly tool for fine-tuning LLMs with support for multiple architectures | [GitHub](https://github.com/OpenAccess-AI-Collective/axolotl) | ![GitHub stars](https://img.shields.io/github/stars/OpenAccess-AI-Collective/axolotl) |
 | Mergekit | Tools for merging multiple fine-tuned LLMs into a single model | [GitHub](https://github.com/cg123/mergekit) | ![GitHub stars](https://img.shields.io/github/stars/cg123/mergekit) |
 
-## LLM Observability
-
-Tools for monitoring, analyzing, and improving LLM applications.
-
-
-| Library | Description | Link | GitHub Stars 🌟                                                                       |
-|------|-------------|------|---------------------------------------------------------------------------|
-| MLflow | Platform for managing the ML lifecycle, including tracking experiments, packaging code, and model deployment with LLM tracking capabilities | [GitHub](https://github.com/mlflow/mlflow) | ![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow) |
-| Langfuse | Open source LLM engineering platform | [GitHub](https://github.com/langfuse/langfuse) | ![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse) |
-| Opik/Comet | Debug, evaluate, and monitor LLM applications with tracing, evaluations, and dashboards | [GitHub](https://github.com/comet-ml/opik) | ![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik) |
-| Phoenix/Arize | Open-source observability for LLM applications | [GitHub](https://github.com/Arize-ai/phoenix) | ![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix) |
-| Helicone | Open source LLM observability platform. One line of code to monitor, evaluate, and experiment | [GitHub](https://github.com/helicone/helicone) | ![GitHub stars](https://img.shields.io/github/stars/helicone/helicone) |
-| Openlit | Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground | [GitHub](https://github.com/openlit/openlit) | ![GitHub stars](https://img.shields.io/github/stars/openlit/openlit) |
-| Lunary | The production toolkit for LLMs. Observability, prompt management and evaluations. | [GitHub](https://github.com/lunary-ai/lunary) | ![GitHub stars](https://img.shields.io/github/stars/lunary-ai/lunary) |
-| Langtrace | OpenTelemetry-based observability tool for LLM applications with real-time tracing and metrics | [GitHub](https://github.com/Scale3-Labs/langtrace) | ![GitHub stars](https://img.shields.io/github/stars/Scale3-Labs/langtrace) |
-
-## Prompt Techniques
-
-Methods and frameworks for effective prompt engineering in RAG systems.
-
-### Open Source Prompt Engineering Tools
-
-| Library | Description | Link | GitHub Stars 🌟 |
-|------|-------------|------|-------|
-| Prompt Engineering Guide | Comprehensive guide to prompt engineering | [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) | ![GitHub stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide) |
-| DSPy | Framework for programming language models instead of prompting | [GitHub](https://github.com/stanfordnlp/dspy) | ![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy) |
-| Guidance | Language for controlling LLMs | [GitHub](https://github.com/guidance-ai/guidance) | ![GitHub stars](https://img.shields.io/github/stars/guidance-ai/guidance) |
-| LLMLingua | Prompt compression library for faster LLM inference | [GitHub](https://github.com/microsoft/LLMLingua) | ![GitHub stars](https://img.shields.io/github/stars/microsoft/LLMLingua) |
-| Promptify | NLP task prompt generator for GPT, PaLM and other models | [GitHub](https://github.com/promptslab/Promptify) | ![GitHub stars](https://img.shields.io/github/stars/promptslab/Promptify) |
-| PromptSource | Toolkit for creating and sharing natural language prompts | [GitHub](https://github.com/bigscience-workshop/promptsource) | ![GitHub stars](https://img.shields.io/github/stars/bigscience-workshop/promptsource) |
-| Promptimizer | Library for optimizing prompts | [GitHub](https://github.com/hinthornw/promptimizer) | ![GitHub stars](https://img.shields.io/github/stars/hinthornw/promptimizer) |
-| Selective Context | Context compression tool for doubling LLM content processing | [GitHub](https://github.com/liyucheng09/Selective_Context) | ![GitHub stars](https://img.shields.io/github/stars/liyucheng09/Selective_Context) |
-| betterprompt | Testing suite for LLM prompts before production | [GitHub](https://github.com/stjordanis/betterprompt) | ![GitHub stars](https://img.shields.io/github/stars/stjordanis/betterprompt) |
-
-### Documentation & Services
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| OpenAI Prompt Engineering | Official guide to prompt engineering from OpenAI | [Link](https://platform.openai.com/docs/guides/prompt-engineering) |
-| LangChain Prompts | Templates and composition tools for prompts | [Link](https://python.langchain.com/docs/how_to/) |
-| PromptPerfect | Tool for optimizing prompts | [Link](https://promptperfect.jina.ai/) |
 
 ## Evaluation
 
