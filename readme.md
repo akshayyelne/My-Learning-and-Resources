@@ -32,16 +32,13 @@ RAG All-in-one is a guide to building Retrieval-Augmented Generation (RAG) appli
 | [🔄 Query Transform](#query-transform) | Advanced techniques for improving query quality and retrieval effectiveness in RAG systems |
 | [🤖 Agent Framework](#agent-framework) | End-to-end frameworks for building RAG applications. Unified solutions for RAG implementation |
 | [📀 Database](#database) | Databases optimized for storing and searching vector embeddings. Vector storage, similarity search, and indexing |
-| [💻 LLM](#llm) | Large Language Models for generating responses. LLM providers and frameworks |
 | [📝 Embedding](#embedding) | Models and services for creating text embeddings. Embedding models and APIs |
 | [🔧 Fine-tuning](#fine-tuning) | Tools and techniques for customizing LLMs to specific domains or tasks |
-| [🖥️ LLM Observability](#llm-observability) | Tools for monitoring and analyzing LLM performance. Logging, tracing, and analytics |
-| [📕 Prompt Techniques](#prompt-techniques) | Methods for effective prompt engineering. Prompt templates and frameworks |
 | [🤔 Evaluation](#evaluation) | Tools for assessing RAG system performance. Metrics and evaluation frameworks |
 | [📺 User Interface](#user-interface) | Tools for building interactive AI interfaces. UI frameworks for RAG applications |
 | [🚀 Complete RAG Applications](#complete-rag-applications) | Ready-to-use, comprehensive RAG systems that integrate various components of the RAG stack |
 
-## Courses and Learning Materials
+## My Learning resources 
 
 Comprehensive courses and learning resources for mastering RAG systems.
 
