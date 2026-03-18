@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm Akshay Yelne, passionate about building AI systems. This repository is my collection of my learning and resources to help you design, control, and optimize LLM behavior effectively.
+I'm Akshay Yelne, passionate about building AI systems. This repository is my collection of my learning and resources to help you build your AI journey
 
 Feel free to connect with me on social media to discuss further
 
